@@ -84,6 +84,34 @@
               "version": "4.9.2-atmel3.5.3-arduino2"
             }
           ]
+        },
+	{
+          "name": "Abinaya ",
+          "architecture": "ps",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://portal.mcci.com"
+          },
+          "url": "https://github.com/PAbinaya/Abi/blob/master/Vowels_Count.rar",
+          "archiveFileName": "Vowels_Count.rar",
+          "checksum": "SHA-256:d762dedb968921d53b6685a307b199d1ee69c77a026be82d7a436eaac7f9a47c",
+          "size": "134",
+          "boards": [
+            {"name": "Sample board1"}
+          ],
+          "toolsDependencies": [
+			      {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            },
+			      {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.3-arduino2"
+            }
+          ]
         }
       ],
       "tools": [
