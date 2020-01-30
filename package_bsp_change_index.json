@@ -93,9 +93,9 @@
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/PAbinaya/Abi/raw/master/Vowels_Count.rar",
-          "archiveFileName": "Vowels_Count.rar",
-          "checksum": "SHA-256:d762dedb968921d53b6685a307b199d1ee69c77a026be82d7a436eaac7f9a47c",
+          "url": "https://github.com/PAbinaya/Abi/raw/master/Vowels_Count1.zip",
+          "archiveFileName": "Vowels_Count1.zip",
+          "checksum": "SHA-256:59dd3a703fa89a679a3324c8b76a41688105bae026901d6bb45afbf5a7abbd66",
           "size": "134",
           "boards": [
             {"name": "Sample board1"}
