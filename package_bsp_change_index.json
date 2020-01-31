@@ -95,7 +95,7 @@
           },
           "url": "https://github.com/PAbinaya/Abi/raw/master/Vowels_Count.zip",
           "archiveFileName": "Vowels_Count.zip",
-          "checksum": "SHA-256:59dd3a703fa89a679a3324c8b76a41688105bae026901d6bb45afbf5a7abbd66",
+          "checksum": "SHA-256:c909b6e1302a4d4c220f6f8d7137c199f2ede4dcda34ef3cd7d6aa3305feb3d6",
           "size": "134",
           "boards": [
             {"name": "Sample board1"}
